@@ -1,1 +1,1 @@
-# Magist-Web
+# Magist-Web (Management Web)
